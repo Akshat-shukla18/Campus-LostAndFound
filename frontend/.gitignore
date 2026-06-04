@@ -11,10 +11,7 @@
 # production
 /build
 
-# Environment files
-.env
-backend/.env
-frontend/.env
+
 
 # misc
 .DS_Store
