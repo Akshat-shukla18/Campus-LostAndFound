@@ -9,7 +9,6 @@ Campus Lost & Found Portal is a full-stack MERN application designed specificall
 Users can create posts about lost or found belongings, browse campus-wide reports, communicate with item owners or finders, and contribute to a transparent and organized lost-and-found ecosystem.
 
 ---
-
 # 🚀 Overview
 
 Every year, students lose valuable items such as:
